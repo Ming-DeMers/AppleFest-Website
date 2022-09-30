@@ -38,11 +38,16 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 4a. If yes, What was that information? How did you obtain it?
 
 5. Now that you're here participating in the festival, have you sought out information about the festival?
-5a. TODO: add your own question
 
-6. TODO: add your own question
-7. TODO: add your own question
+6. What, in the past, has been your favorite thing about the festival, and that you would want others to know to do here?
+6a. Who would you say the target audience of this activity was?
 
+7. What information were you looking about this festival, or others, that you weren't able to find, if any?
+7a. Why did you need this information?
+
+8. Now that you're at the festival, did the website seem to accurately represent the festival? Why or why not?
+   
+9.  Any other questions or comments that you didn't have the opportunity to bring up before?
 ...
 
 n. What haven't I asked you today that you think would be valuable for me to know?
