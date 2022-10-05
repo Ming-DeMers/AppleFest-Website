@@ -191,7 +191,8 @@ Plan your site's content.
 - Offerings (vendors, foods, performances, games)
 - Sponsors
 - Gallery
-- Map
+- Map, directions, parking
+- Applications (vendors, volunteers, etc.)
 
 
 ### Content Justification (Milestone 1)
@@ -206,41 +207,38 @@ This content ought to fulfill the aforementioned needs of the site audience. We 
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
-
 
 ### Final Content Organization (Milestone 1)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+I intend to go with the first iteration. This layout is simple to navigate, and organization should be obvious. The home page will essentially have abbreviated versions of the events and about page, whereas the events and about page will contain more for the user to explore. For example, while a map will be on the home page, a "more" button will accompany so a user may find bus routes, parking, etc. It is delegated to the other page to reduce clutter, and because not all audience users will require the information. I chose this over the second iteration as I found the second to be more confusing to navigate. For example, if I want to find a certain performance location, do I visit the directions or the events page? What is contained in "more?"
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
-
+The home page will contain all the information a user will immediately need to know about apple fest. The subsequent pages will contains more niche information that is helpful in general, and easy to find. Such organization delegates information so users can navigate the page easily and find what they need.
 
 ### Navigation (Milestone 1)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home (index.html)
+- About (about.html)
+- Events (events.html)
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
-
+They are straightforward names that indicate what they contain. About is more about the festival, events lists the events and going-ons of the festival.
 
 ## Visual Theme (Milestone 1)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
-
+- Some ideas for the them could a simple website with few color choices. Black and white with red accent to represent red delicious apples is one such option.
+- We could also add a background of a picture of apples, which may seem cool in theory, though I doubt it will provide contrast nor good readability.
+- The intent of the design is to invoke feelings of fall and prosperity, so using bright colors of red and blue would accomplish this.
+- Different fonts will contribute to the style of the page. Small caps may be a friendly but bolder choice for headings. All caps would be less friendly.
 
 ## Design (Milestone 1)
 
-Document your site's layout.
+The site will have a simple white background with a secondary color of blue and accent of red. This is because apples are red, and Ithaca primarily uses the color blue. The website is intended for Apple Fest, which is hosted in Ithaca, so it is important to honor both aspects with design cues. A sans-serif font will make the website friendly and modern, and elements will remain left-justified for readability.
 
 ### Layout Exploration (Milestone 1)
 > Iterate on your site's design through sketching.
@@ -248,8 +246,10 @@ Document your site's layout.
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
-
+![Sketch for homepage wide](Page1%20(1).jpg) A sketch of the homepage for wide screens. The menu is at the right hand side, and the rest of the content is top-down, including an introduction, a gallery, and the map.
+![Sketch for homepage wide](Page2%20(1).jpg) A sketch the home page for wide screens. The Menu bar is under the heading, which uses the text of AppleFest rather than the logo. The content is top-down.
+![Sketches for home page narrow](Page3%20(1).jpg) Two sketches for a narrow screen. They differ in that the menu is hidden in a side-out bar and the content is top-down, with the headings centered or left-justified.
+![Sketch for Homepage wide or narrow](Page4%20(1).jpg) This a sketch of wide screen homepage with two columns. It puts the welcome in the left column and events in the other, as well as gallery in one and map in the other. This layout may be best super wide screens.
 
 ### Final Design (Milestone 1)
 > Include the final sketches for each of your pages.
@@ -258,21 +258,20 @@ TODO: layout exploration sketches + explanation
 
 **Narrow (Mobile) Design:**
 
-TODO: narrow sketches and explanation
-
+![Narrow design of the about and home page ](Page4.jpg) The left one is the narrow design of the home page. The logo is in the header and no text is next to it, except a hamburger for the slide out menu. The content is top-down with the headers center-justified. This may be changed to left-justification for better readability. The other page is the same in design. Items are top-down.
+![Narrow design of the events page](Page5.jpg) Like before, the content is top-down and a menu is hidden to the side. The content is top-down and there is no horizontal scrolling.
 
 **Wide (Wide) Design:**
-
-TODO: wide sketches and explanation
-
+![Design of the home page wide](Page1.jpg) The home page for wide screens has most of the same content. The header has the logo, text, location, and contact info. The menu bar is under the header and the body contains images and text which tends to be side-by-side.
+![Wide design of the about page](Page2.jpg) The about page is similar to the home page, with the same heading. This time, the content is one column top-down.
+![wide design of the events page](Page3.jpg)The events page has the same heading and menu as before, there are three columns for the the types of vendors, and then the performances and gallery tab are left-justified top-down.
 
 ### Design Rationale (Milestone 1)
 > Explain why your design is appropriate for your audience.
 > Specially, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
-
+The design of the website, as mentioned before, is optimal for the audience, who consists mainly of Ithaca resident, college students, particularly those interested in attending the festival. The content is organized into three pages. Primarily, users will visit the home page for quick reference, therefore, abbreviated content is placed here - such as highlight events, the map, and of course, the sponsors. Further information can be found in the other pages, events and about. About contains applications for vendors or volunteers, parking information, and more. The events page provides a full run down of what one can do and find at AppleFest. The page, when resized, will be responsive so that it is navigable on mobile and desktop. The wide version of the page will have a menu bar at the top and content will be top-down, with some content to the right such as images or the map. Largely, all content will left-justified. For the mobile version, content will be entirely top-down so there will be no horizontal scrolling. The menu will be hidden in a hamburger, and some content may be simplified for smaller screen. The design of the website will be simple and contain colors that allude to apples, upstate ny, and the fall. The sans-serif font will create a friendly page that is accessible and helpful for all users.
 
 ## User Testing (Final Submission)
 
