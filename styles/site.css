@@ -1,7 +1,70 @@
 /* narrower screens */
 html {
   font-family: sans-serif;
-  font-size: 120%;
+  margin: 5px;
+}
+
+
+.head-content img {
+  display: block;
+  width: 75%;
+  margin: auto;
+  padding: 15px;
+}
+
+.head-content header {
+  display: none;
+}
+
+.head-content {
+  background-color: #1eafed;
+  color: #ffffff;
+}
+
+.main-body {
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  background-color: #5cae1e;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+
+}
+
+nav ul {
+  /* */
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+}
+
+nav a:link {
+  text-decoration: none;
+  font-size: larger;
+  color: #ffffff;
+  background-color: #5cae1e;
+  display: inline;
+  padding: 10px;
+}
+
+nav a:hover {
+  color: #5cae1e;
+  background-color: #ffffff;
+  border-bottom: 0px;
+}
+
+nav a:visited {
+  color: #ffffff;
 }
 
 main {
@@ -10,13 +73,8 @@ main {
   margin: 0 auto;
 }
 
-img {
-  width: 25%;
-  height: auto;
-}
-
-.map {
-  width: 100%;
+.map img {
+  width: 75%;
   height: auto;
 }
 
@@ -27,8 +85,102 @@ h1 {
 
 /* wider screens */
 @media (min-width: 600px) {
-  html {
-    background-color: #bbbbbb;
-    font-size: 100%;
+
+
+  body {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .main-body {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+
+  .content-body {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  .aside-nav {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .head-content {
+    display: flex;
+    flex-direction: row;
+
+  }
+
+  .head-content header {
+    margin-top: auto;
+    padding-left: 10px;
+    display: block;
+  }
+
+  .head-content figure {
+    width: 40%;
+  }
+
+
+  .mobile-title {
+    display: none;
+  }
+
+  nav {
+    background-color: #5cae1e;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    padding: 10px;
+  }
+
+  nav ul {
+    /* */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav ul li {
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+  }
+
+  nav a:link {
+    text-decoration: none;
+    font-size: larger;
+    color: #ffffff;
+    background-color: #5cae1e;
+    display: inline;
+    padding: 10px;
+  }
+
+  nav a:hover {
+    color: #5cae1e;
+    background-color: #ffffff;
+    border-bottom: 0px;
+  }
+
+  .map figure {
+    width: 50%;
+  }
+
+
+  .content-section {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+  }
+
+  .content-section picture {
+    margin: auto;
+    padding: 10px;
   }
 }
