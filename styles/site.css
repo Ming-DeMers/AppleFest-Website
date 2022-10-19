@@ -1,13 +1,21 @@
 /* narrower screens */
 html {
   font-family: sans-serif;
-  margin: 5px;
+  margin: 0px;
+  background-color: #fab759;
+  margin: 0px;
+  padding: 0px;
 }
 
+img {
+  border-radius: 5%;
+}
+
+.head-content h1 {}
 
 .head-content img {
   display: block;
-  width: 75%;
+  width: 150px;
   margin: auto;
   padding: 15px;
 }
@@ -19,6 +27,8 @@ html {
 .head-content {
   background-color: #1eafed;
   color: #ffffff;
+  margin: 0px;
+  padding: 0px;
 }
 
 .main-body {
@@ -137,6 +147,8 @@ h1 {
     flex-direction: row;
     flex-grow: 1;
     padding: 10px;
+
+
   }
 
   nav ul {
@@ -145,12 +157,15 @@ h1 {
     flex-direction: column;
     margin: 0;
     padding: 0;
+    border-radius: 5%;
   }
 
   nav ul li {
     display: flex;
     flex-direction: column;
     font-size: large;
+    border-radius: 5%;
+    border: #fab759;
   }
 
   nav a:link {
@@ -160,6 +175,8 @@ h1 {
     background-color: #5cae1e;
     display: inline;
     padding: 10px;
+    border-radius: 5%;
+    outline: #1eafed;
   }
 
   nav a:hover {
