@@ -280,80 +280,100 @@ The design of the website, as mentioned before, is optimal for the audience, who
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
-
-2. TODO: task 2
+1. You and some friends want to go to Applefest this weekend. Given your busy schedules, it only seems like they are free Friday before 8 pm or Saturday morning before noon. Determine what a good time would be for your friends to go so you can be there for at least 2 hours.
+2. Your aunt is away for the weekend and has asked you to take care of her dog. You want to go to Applefest, but don't know if bringing Fido is a good idea - determine whether or not if you should.
+3. After much hemming and hawing, you're excited to go to Applefest Saturday morning. You hope to take the TCAT, but due to budget cuts and shortages (because of a certain uncooperative university) the route may not be reliable. You choose to carpool instead. Find a place where you can park your car.
+4. One of your friends, out of sheer goodness of their heart (and a court order), decides to volunteer for the festival. Help them find where they can sign up.
+5. Applefest on Saturday morning is rather busy! Your friends say their at the "live music stage." You only have your phone, but use the website to locate where your friends are.
+6. Now that you're at the music stage, figure out who's going to perform there at noon.
+7. Ouch! Rachel Beverly is so good that everyone started moshing and someone hurt their ankle! Find the best route to the EMT tent.
+8. It's almost time to head home. But, the patient you delivered to the EMT tent has requested some "pain management." You spent all your money on overpriced apple cider donuts,  but you're willing to try your luck at a contest. You discover that the CBD store had a basket giveaway of a sampler. But, rapturous glee soon turns to miserly sorrows as your realize the giveaway occurred Thursday. The patient corrects themselves, they wanted *grain* management from Rashida Sawyer Bakery - apparently there's a discount on their goods. Find out what they are selling and what the discount is.
 
 
 ### Participant 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
-1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-    TODO: tell us about the participant
-
+1. Jenna, a senior in CS who has been to applefest before. They will work SWE at Amazon next year.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
-
+Yes, they are a student at Cornell and visited Applefest this year. They would find the website helpful.
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. Sees the hours in first paragraph, and chooses Friday 3 pm.
+2. Scrolls through the home page, and looks through the map to see if there’s any areas for dogs. In the FAQs, see’s that it’s a bad idea to bring a dog.
+3. Goes to the map, and see’s there’s public parkin gon Green st and the parking garage
+4. In the about page, scrolls through the page and sees the heading for volunteering. Clicking on the link they can help.
+5. Goes to home a goes to where they know the map is. FInds the bernie melton stage easily.
+6. Goes to the mpa, see the lineup, and finds rachel beverly.
+7. Uses the map
+8. Goes to the about page, and looks for a list of what’s there in the about section, says they’ll go to the map next. Sees the offering page, and easily finds them under food vendors. Assumes its under there, and that there is more detail toward the bottom. Finds the 25$ gift certificate that one can wind. Says alphabetized that it would be better.
 
+Navigating the site was fine. Believes it would be better if the info was better listed intuitvely - if therw was a visual calendar for time, for example. Thinks the colunteering section should have its own tab (maybe join us), and the offering name is weird.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
-1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-    TODO: tell us about the participant
-
+1. Saniya, who is a sophmore ORIE major, and did not go to Applefest but had expressed interest. They do not have a job, they are full-time student.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
-
+Yes, they are a student who would find this website useful for a future visit or to learn about the past applefest.
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. From the home page chooses to go Friday at noon
+2. Looks through the home page. Goes to about and finds it in the FAQ - so probs won’t.
+3. Easily finds garage and street parking on the about page, and names the Seneca and Cauyga garages.
+4. Finds it in the page and easily locates the link
+5. Looks through about and goes to the map on the main page. FInds it on the map.
+6. Looking on the map, sees the lineup and determines rachel beverly!
+7. Is able to find the way through the commons!
+8. Navigates to offering scrolls down and notices the they offer apple items. 10%.
 
+Was easy to navigate - nothing particularly unnatural.
 
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+Zach, a sophomore Chem E Major. They do not have a job and visited Applefest with friends.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
-
+Yes, they are student had used the website to help navigate.
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. 10-12 Saturday
+2. Looks through the home page, doesn’t notice the menu bar, only looking at the body content. Finds the dog FAQ and say’s it strongly discouraged.
+3. On the street or garage, from the appropriate section.
+4. Wrongly states they can find it under applications
+5. Returns to home and clicks on the map quickly. Finds the stage easily.
+6. Returns to the website, goes to about, then offering, and sees its Rachel
+7. Returns to the map and easily finds that one can go through the commons
+8.  Goes through the map to locate Rashida bakery. Returns to offerings, and finds Rashida after some scrolling. Incorrectly stating they have a 25$ gift certificate.
 
+No comment, layed out well.
 
 ### Potential Changes Based on User Testing (Final Submission)
 > What changes would you make to your design based on user testing?
 > Note: You are not required to change your design. Simply tell  us what you would change.
 
-TODO: user testing reflection
+Overall, users were able to successfully complete all tasks with ease. Some interesting notes - the questions were easily answered if the user stayed on the map, whereas I had intended they be answered via content on the web page. Some users didn't see the menu bar at first. Some users did not answer the last question properly - they noted the gift basket, rather than the vendor listing. Users were able to navigate the site easily, and every test only took around 5 minutes to complete.
 
+Suggested changes could possibly improving the menu bar so it is more noticeable. Moreover, removing duplicitous content, or placing it elsewhere. Having the map open in a new tab would be helpful. Only one user complained about the organization, they believed more pages would be helpful, but other users said they agreed with the org of the pages and didn't want it to be expanded. No complaints about theme or layout. No suggested changes for the mobile version.
 
 ## Rationale (Final Submission)
 
@@ -363,41 +383,45 @@ It should be a comprehensive, complete story of the project. You might find that
 
 Your rationale should be a polished version of the earlier explanations.
 
+
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
-
+Ithaca Downtown is hosting the 40th Apple Harvest Festival from 9/30 - 10/2! For many, this will be their third or fourth time, but, for others it may be their first time or they need a refresher. This website was designed with the audience of Ithacans in mind. Students and townies, as well as visitors, will require this website to help guide them through everything Applefest; whether in preparation, during, or afterwards, this website will help.
 
 ### Audience Goals
 > Explain how your site's design addresses the goals of the audience.
 
-TODO: goal rationale
-
+This website intends to meet the many goals of different audience members. First and foremost, users wish to learn more about the festival in general. The website provides all basic information such as dates, times, and locations. It also provides vendors, performers, and a map to navigate. There is also a history of the festival, and info on getting to and fro and a FAQ. Audience members, whether if they are planning their day at Applefest, or already there, should find the site helpful in answer their questions and informing their schedule.
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design is appropriate for your audience.
 > Include design patterns in your rationale.
 
-TODO: design rationale
+First, the layout of the website is a simple 3-page design with a nav bar that sits at the left. When viewed on mobile devices, the nav bar may adapt by moving towards the top and across the screen. Every page is decorated with a header that reiterates Applefest and gives the name of the page. The home page includes the logo and dates, as well. All the content is left-justified and placed in paragraphs with an appropriate header. This allows for easy perusing and reading. Links are placed appropriately throughout.
+
+The visual design is intended to be friendly and simple. The triadic color scheme evokes ideas of fall and apples, and the sans-serif font makes text easy to read and inviting. The use of images shows what users can expect for the festival, and adds decorative content that is also informative. The page is enhanced with its intentional theme to be friendly, informational, and useful for all users.
 
 
 ### Self-Reflection (Final Submission)
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: self-reflection
+This project was a bit different to project 1 because all the content was provided, and we focused on creating a website with responsive design. We learned more about CSS and how to better work (wrestle) with flexboxes. We also learned about user interviews and user testing, which are crucials elements in web design.
 
+I enjoyed this project to an extent, though found working with media queries and the nav bar frustrating. Copy and pasting content felt tedious, but was necessary. I feel more confident in working with CSS and web design overall.
 
 ## Grading (Final Submission)
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+None.
 
 
 ### Reference Resources
 > Please cite any external resources you referenced in the creation of your project.
 > (i.e. W3Schools, StackOverflow, Mozilla, etc.)
 
-TODO: list reference resources
+1. Mozilla Reference Documentation
+2. Stack Overflow
+3. Course labs
